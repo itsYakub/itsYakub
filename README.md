@@ -1,11 +1,12 @@
 # 💫 About Me:
 👋 <strong>Hi, I'm Yakub! A C and C++ self-taught developer and enthusiast!</strong> <br> <br>
-👤 <strong>Age: 19 Years Old. </strong> <br> <br>
-🇵🇱 <strong>Nationality: Poland. </strong> <br> <br>
-👨 <strong>Pronouns: He/Him. </strong> <br> <br>
+
+# 📚 GitHub Projects:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=Memo)](https://github.com/itsYakub/Memo)
+<br> <br>
 
 # 📊 GitHub Stats:
-<img src="https://myreadme.vercel.app/api/embed/itsYakub?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/itsYakub?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
 <br> <br>
 
 # 💻 Tech Stack:
@@ -25,7 +26,7 @@
 
 # 💬 Social:
 <!-- TODO: Add links to social media -->
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)]() [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/468071721623355402) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 ---
 [![](https://visitcount.itsvg.in/api?id=itsYakub&icon=0&color=0)](https://visitcount.itsvg.in)
