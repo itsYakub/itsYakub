@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 <strong>Hi, I'm Yakub! A C and C++ self-taught developer and enthusiast!</strong> <br> <br>
+👋 <strong>Hi, I'm Yakub! A 19 years old C and C++ enthusiast from Poland 🇵🇱. I love making dekstop applications and games, creating tools and templates for (and hopefully others) workflow optimization and fun ❤️. I'm striving to become the well-known, successful and professional developer, teach others and myself, make friends along the way and be the important part of the community 🌟</strong> <br> <br>
 
 # 📚 GitHub Projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=Memo)](https://github.com/itsYakub/Memo)
