@@ -3,6 +3,7 @@
 
 # 📚 GitHub Repositories:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=Memo)](https://github.com/itsYakub/Memo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=Template)](https://github.com/itsYakub/Template)
 <br>
 
 # 📊 GitHub Stats:
