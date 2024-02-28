@@ -3,6 +3,7 @@
 
 # 📚 Projects:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=Memo)](https://github.com/itsYakub/Memo)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=golf-demo)](https://github.com/itsYakub/golf-demo.git)
 <br>
 
 # 📊 GitHub Stats:
