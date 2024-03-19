@@ -1,5 +1,5 @@
 <h1 align="center">
-👋 Hi, I'm Jakub, aka. Yakub! ❤️
+👋 Hi, I'm Jakub! ❤️
 </h1>
 
 <br><br>
@@ -20,7 +20,7 @@
 🧑 I'm a software & games developer from Poland 🇵🇱. <br><br>
 🖥️ I love programming in C and C++. I know Java and C# as well, and I have some experience with Python, and even Scratch if you would ask me ❤️. <br><br>
 ⌨️ My favorite Text Editor is Visual Studio Code, but I'm also experienced in Visual Studio, Sublime Text, IntelliJ IDEA and IntelliJ PYCHARM 💪. <br><br>
-🤩 I am a fitness person, open to new people, easily find the common language. I love to help others when they're in trouble and know how to exit vim 🤓. <br><br>
+🤩 I am a fitness person, open to new people, easily find the common language with people around me. I love to help others when they're in trouble and know how to exit vim 🤓. <br><br>
 📖 Lastly, I'm more then enough ready to pick&learn new things, subjects, technologies and languages. I'd love to expand my knowledge and share it with others ❤️.
 </b></p>
 
