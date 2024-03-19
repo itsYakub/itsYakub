@@ -1,32 +1,102 @@
-# 💫 About Me:
-<p align="center">👋 <strong>Hi, I'm Yakub! A 19 years old C and C++ enthusiast from Poland 🇵🇱. I love making dekstop applications and games, creating tools and templates for (and hopefully others) workflow optimization and fun ❤️. I'm striving to become the well-known, successful and professional developer, teach others and myself, make friends along the way and be the important part of the community 🌟</strong> </p>
+<h1 align="center">
+👋 Hi, I'm Jakub, aka. Yakub! ❤️
+</h1>
 
-# 📚 Projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=Memo)](https://github.com/itsYakub/Memo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=golf-demo)](https://github.com/itsYakub/golf-demo.git)
-<br>
+<br><br>
 
-# 📊 GitHub Stats:
-<img src="https://myreadme.vercel.app/api/embed/itsYakub?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme">
+<a href="https://github.com/itsYakub/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=itsYakub&card_width=500" />
+  </a>
+  <a href="https://github.com/itsYakub/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsYakub&layout=compact&langs_count=8&card_width=470" />
+  </a>
 
-# 💻 Tech Stack:
-## 📋 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-## 🎮 Gaming
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-## 💻 IDEs/Editors
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-## 💾 Databases
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-## 🎛️ Operating System
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
-## 🕓 Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br><br>
 
-# 💬 Social:
-<!-- TODO: Add links to social media -->
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/468071721623355402) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+<h2 align="center">
+💫 About Me:
+</h2>
+<p align="center"><b>
+🧑 I'm a software & games developer from Poland 🇵🇱. <br><br>
+🖥️ I love programming in C and C++. I know Java and C# as well, and I have some experience with Python, and even Scratch if you would ask me ❤️. <br><br>
+⌨️ My favorite Text Editor is Visual Studio Code, but I'm also experienced in Visual Studio, Sublime Text, IntelliJ IDEA and IntelliJ PYCHARM 💪. <br><br>
+🤩 I am a fitness person, open to new people, easily find the common language. I love to help others when they're in trouble and know how to exit vim 🤓. <br><br>
+📖 Lastly, I'm more then enough ready to pick&learn new things, subjects, technologies and languages. I'd love to expand my knowledge and share it with others ❤️.
+</b></p>
+
+<br><br>
+
+<h2 align="center">
+💻 Tech Stack:
+</h2>
+<h3 align="center">
+📋 Languages
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py" />
+  </a>
+</p>
+
+<h3 align="center">
+🎮 Game Development
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,godot" />
+  </a>
+</p>
+
+<h3 align="center">
+💻 Text Editor Stack
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,sublime" />
+  </a>
+</p>
+
+<h3 align="center">
+🎛️ Operating System
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ubuntu,windows" />
+  </a>
+</p>
+
+<h3 align="center">
+💾 Databases
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sqlite" />
+  </a>
+</p>
+
+<h3 align="center">
+🕓 Version Control
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </a>
+</p>
+
+<h3 align="center">
+🖍️ Graphics
+</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,figma" />
+  </a>
+</p>
+
+<h2 align="center">
+💖 Support Me 💖
+</h2>
 
 <!-- Credits: -->
 <!-- https://github.com/Ileriayo/markdown-badges: Badges -->
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md: Emojis-->
+<!-- https://github.com/tandpfun/skill-icons: Logo's -->
