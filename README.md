@@ -1,41 +1,28 @@
 <div align="center">
 
-# 👋 Hi, I'm Jakub! ❤️
+![avatar](https://github.com/user-attachments/assets/2f720d60-8978-4587-b698-c4743963a754)
+
 [![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itsyakub.itch.io/)
 [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/P5P8U0T3I)
 
-![itsYakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsYakub&show_icons=true&theme=github_dark_dimmed)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsYakub&layout=compact&theme=github_dark_dimmed)
-
 </div>
-
-<div align="center">
 
 ## 💫 About Me:
-
-**20 years old software developer from 🇵🇱 Poland 🇵🇱**
-
-**Love relationship with ❤️ C and C++ ❤️**
-
-**Open for opportunities. Ready for learning and discovering new things. Love to work on making myself better!**
-
-</div>
+- **Location:** Poland 🇵🇱
+- **Age:** 20 years old
+- **Pronounce:** They/Don't Know me Son ⛵🪵
+- **Favorite Languages:** C and C++
 
 <div align="center">
 
-## 💻 Tech Stack:
-
-### 📋 Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,md,html,css&perline=4)](https://skillicons.dev)
-
-### 💻 Text Editor Stack
-[![My Skills](https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,sublime&perline=3)](https://skillicons.dev)
-
-### 🕓 Version Control
-[![My Skills](https://skillicons.dev/icons?i=git,github&perline=2)](https://skillicons.dev)
+## 💻 Languages and Tools:
 
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,md,html,css,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,sublime)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
+
 
 <div align="left">
 
@@ -43,6 +30,6 @@
 
 - **[tandpfun/skill-icons](https://github.com/tandpfun/skill-icons);**
 - **[ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md);**
-- **[tandpfun/skill-icons](https://github.com/tandpfun/skill-icons);**
+- **[Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges/blob/master/README.md);**
 
 </div>
