@@ -8,10 +8,10 @@
 </div>
 
 ## 💫 About Me:
-- **Location:** Poland 🇵🇱
-- **Age:** 20 years old
-- **Pronounce:** They/Don't Know me Son ⛵🪵
-- **Favorite Languages:** C and C++
+- **🌍:** Poland 🇵🇱
+- **📆:** 20 years old
+- **👤:** He/Him 👨
+- **📝:** C and C++
 
 <div align="center">
 
