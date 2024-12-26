@@ -1,35 +1,63 @@
-<div align="center">
+# About me ✨
+```c
+#include <stdio.h>
 
-![avatar](https://github.com/user-attachments/assets/2f720d60-8978-4587-b698-c4743963a754)
+int main(int ac, char **av) {
+	// Let's print hello world!
+	fprintf(stdout, "Hello, world!\n");
 
-[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://itsyakub.itch.io/)
-[![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/P5P8U0T3I)
+	// Maybe something about me?
+	fprintf(stdout, "================================\n");
 
-</div>
+	fprintf(stdout, "> Job: OPEN FOR OPPORTUNITIES!!!\n");
+	fprintf(stdout, "> School: 			42warsaw\n");
+	fprintf(stdout, "> Main language: 	🇨 \n");
+	fprintf(stdout, "> Nationality: 	🇵🇱 \n");
+	fprintf(stdout, "> Age and gender:	👦 20yo \n");
 
-## 💫 About Me:
-- **🌍:** Poland 🇵🇱
-- **📆:** 20 years old
-- **👤:** He/Him 👨
-- **📝:** C and C++
+	fprintf(stdout, "================================\n");
 
-<div align="center">
+	// And maybe some contact info?
+	fprintf(stdout, "> Twitter: @YakubButOnTwt\n");
+	fprintf(stdout, "> LinkedIn: www.linkedin.com/in/jakub-oleksiak-369625329\n");
+	fprintf(stdout, "> gmail: yakubofficialmail@gmail.com\n");
 
-## 💻 Languages and Tools:
+	fprintf(stdout, "================================\n");
 
-</div>
+	return (0);
+}
+```
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,md,html,css,bash)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode,vscodium,visualstudio,pycharm,idea,sublime)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab)](https://skillicons.dev)
-
+# Toolbox 🧰
 
 <div align="left">
 
-## 📜 Credits
+#### 📚 Languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,bash,html,css,md)](https://skillicons.dev)
 
-- **[tandpfun/skill-icons](https://github.com/tandpfun/skill-icons);**
-- **[ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md);**
-- **[Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges/blob/master/README.md);**
+</div>
+<div align="right">
+
+#### Editors 💻
+[![My Skills](https://skillicons.dev/icons?i=vim,neovim,sublime,vscode,vscodium,idea,pycharm)](https://skillicons.dev)
+
+</div>
+
+# Projects 💖
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=Silk)](https://github.com/itsYakub/Silk)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=lingwi)](https://github.com/itsYakub/lingwi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=Zoomer)](https://github.com/itsYakub/Zoomer)
+
+</div>
+
+#
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42_libft)](https://github.com/itsYakub/42_libft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42_ft_printf)](https://github.com/itsYakub/42_ft_printf)
 
 </div>
