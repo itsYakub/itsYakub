@@ -10,7 +10,7 @@ int main(int ac, char **av) {
 	fprintf(stdout, "================================\n");
 
 	fprintf(stdout, "> Job: OPEN FOR OPPORTUNITIES!!!\n");
-	fprintf(stdout, "> School: 			42warsaw\n");
+	fprintf(stdout, "> School: 		42warsaw\n");
 	fprintf(stdout, "> Main language: 	🇨 \n");
 	fprintf(stdout, "> Nationality: 	🇵🇱 \n");
 	fprintf(stdout, "> Age and gender:	👦 20yo \n");
