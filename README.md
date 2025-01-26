@@ -62,5 +62,6 @@ int main(int ac, char **av) {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42_get_next_line)](https://github.com/itsYakub/42_get_next_line)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42_minitalk)](https://github.com/itsYakub/42_minitalk)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42_so_long)](https://github.com/itsYakub/42_so_long)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42_push_swap)](https://github.com/itsYakub/42_push_swap)
 
 </div>
