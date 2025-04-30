@@ -57,13 +57,13 @@ int main(int ac, char **av) {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42_libft)](https://github.com/itsYakub/42_libft)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42_ft_printf)](https://github.com/itsYakub/42_ft_printf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42_get_next_line)](https://github.com/itsYakub/42_get_next_line)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42_minitalk)](https://github.com/itsYakub/42_minitalk)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42_so_long)](https://github.com/itsYakub/42_so_long)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42_push_swap)](https://github.com/itsYakub/42_push_swap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-libft)](https://github.com/itsYakub/42-libft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-ft_printf)](https://github.com/itsYakub/42-ft_printf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-get_next_line)](https://github.com/itsYakub/42-get_next_line)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-minitalk)](https://github.com/itsYakub/42-minitalk)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-so_long)](https://github.com/itsYakub/42-so_long)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-push_swap)](https://github.com/itsYakub/42-push_swap)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-philosophers)](https://github.com/itsYakub/42-philosophers)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42_minishell)](https://github.com/itsYakub/42_minishell)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-minishell)](https://github.com/itsYakub/42-minishell)
 
 </div>
