@@ -9,8 +9,8 @@ int main(int ac, char **av) {
 	// Maybe something about me?
 	fprintf(stdout, "================================\n");
 
-	fprintf(stdout, "> Job: OPEN FOR OPPORTUNITIES!!!\n");
-	fprintf(stdout, "> School: 		42warsaw\n");
+	fprintf(stdout, "> Job: 		@BankMillennium\n");
+	fprintf(stdout, "> School: 		@42warsaw\n");
 	fprintf(stdout, "> Main language: 	🇨 \n");
 	fprintf(stdout, "> Nationality: 	🇵🇱 \n");
 	fprintf(stdout, "> Age and gender:	👦 20yo \n");
@@ -48,8 +48,9 @@ int main(int ac, char **av) {
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=Silk)](https://github.com/itsYakub/Silk)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=gf)](https://github.com/itsYakub/gf)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=lingwi)](https://github.com/itsYakub/lingwi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=Zoomer)](https://github.com/itsYakub/Zoomer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=zoom)](https://github.com/itsYakub/zoom)
 
 </div>
 
@@ -66,5 +67,7 @@ int main(int ac, char **av) {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-philosophers)](https://github.com/itsYakub/42-philosophers)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-minishell)](https://github.com/itsYakub/42-minishell)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-cub3d)](https://github.com/itsYakub/42-cub3d)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-inception)](https://github.com/itsYakub/42-inception)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-ft_irc)](https://github.com/itsYakub/42-ft_irc)
 
 </div>
