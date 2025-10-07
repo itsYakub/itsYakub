@@ -9,8 +9,8 @@ int main(int ac, char **av) {
 	// Maybe something about me?
 	fprintf(stdout, "================================\n");
 
-	fprintf(stdout, "> Job: 		@BankMillennium\n");
-	fprintf(stdout, "> School: 		@42warsaw\n");
+	fprintf(stdout, "> Job: 			OPEN FOR OPPORTUNITIES\n");
+	fprintf(stdout, "> School: 			@42warsaw, @Vizja-University\n");
 	fprintf(stdout, "> Main language: 	🇨 \n");
 	fprintf(stdout, "> Nationality: 	🇵🇱 \n");
 	fprintf(stdout, "> Age and gender:	👦 20yo \n");
@@ -28,33 +28,21 @@ int main(int ac, char **av) {
 }
 ```
 
-# Toolbox 🧰
+## Projects 💖
 
-<div align="left">
-
-#### 📚 Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python,bash,html,css,md)](https://skillicons.dev)
-
-</div>
-<div align="right">
-
-#### Editors 💻
-[![My Skills](https://skillicons.dev/icons?i=vim,neovim,sublime,vscode,vscodium,idea,pycharm)](https://skillicons.dev)
-
-</div>
-
-# Projects 💖
+### Single-header toolchain:
 
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=Silk)](https://github.com/itsYakub/Silk)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=gf)](https://github.com/itsYakub/gf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=lingwi)](https://github.com/itsYakub/lingwi)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=zoom)](https://github.com/itsYakub/zoom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=mathlib)](https://github.com/itsYakub/mathlib)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=glapi)](https://github.com/itsYakub/glapi)
 
 </div>
 
-#
+### 42Warsaw projects:
+
+#### 1. 42 Core Curriculum:
 
 <div align="center">
 
@@ -69,5 +57,14 @@ int main(int ac, char **av) {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-cub3d)](https://github.com/itsYakub/42-cub3d)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-inception)](https://github.com/itsYakub/42-inception)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-ft_irc)](https://github.com/itsYakub/42-ft_irc)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-ft_transcendence)]([https://github.com/itsYakub/42-ft_irc](https://github.com/itsYakub/42-ft_transcendence))
+
+</div>
+
+#### 2. 42 Advanced Curriculum:
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=42-libasm)]([https://github.com/itsYakub/42-libft](https://github.com/itsYakub/42-libasm))
 
 </div>
