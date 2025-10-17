@@ -35,7 +35,7 @@ int main(int ac, char **av) {
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=Silk)](https://github.com/itsYakub/Silk)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=mathlib)](https://github.com/itsYakub/mathlib)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=libmath)](https://github.com/itsYakub/libmath)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=glapi)](https://github.com/itsYakub/glapi)
 
 </div>
