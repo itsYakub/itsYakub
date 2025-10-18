@@ -13,7 +13,7 @@ int main(int ac, char **av) {
 	fprintf(stdout, "> School: 			@42warsaw, @Vizja-University\n");
 	fprintf(stdout, "> Main language: 	🇨 \n");
 	fprintf(stdout, "> Nationality: 	🇵🇱 \n");
-	fprintf(stdout, "> Age and gender:	👦 20yo \n");
+	fprintf(stdout, "> Age and gender:	👦 21yo \n");
 
 	fprintf(stdout, "================================\n");
 
