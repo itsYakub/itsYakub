@@ -9,7 +9,7 @@ int main(int ac, char **av) {
 	// Maybe something about me?
 	fprintf(stdout, "================================\n");
 
-	fprintf(stdout, "> Job: 			OPEN FOR OPPORTUNITIES\n");
+	fprintf(stdout, "> Job: 			@Play\n");
 	fprintf(stdout, "> School: 			@42warsaw, @Vizja-University\n");
 	fprintf(stdout, "> Main language: 	🇨 \n");
 	fprintf(stdout, "> Nationality: 	🇵🇱 \n");
@@ -35,7 +35,6 @@ int main(int ac, char **av) {
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=libmath)](https://github.com/itsYakub/libmath)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=glapi)](https://github.com/itsYakub/glapi)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsYakub&repo=Silk)](https://github.com/itsYakub/Silk)
 
 </div>
