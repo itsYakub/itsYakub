@@ -9,7 +9,7 @@ int main(int ac, char **av) {
 	// Maybe something about me?
 	fprintf(stdout, "================================\n");
 
-	fprintf(stdout, "> Job: 			@Play\n");
+	fprintf(stdout, "> Job: 			@P4 Spółka z.o.o.\n");
 	fprintf(stdout, "> School: 			@42warsaw, @Vizja-University\n");
 	fprintf(stdout, "> Main language: 	🇨 \n");
 	fprintf(stdout, "> Nationality: 	🇵🇱 \n");
