@@ -13,6 +13,7 @@
 ### Single-Header libraries:
 - [itsYakub/Silk](https://github.com/itsYakub/Silk)
 - [itsYakub/gload.h](https://github.com/itsYakub/gload.h)
+- [itsYakub/math.h](https://github.com/itsYakub/math.h)
 
 ### 42warsaw:
 #### Common Core:
