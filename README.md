@@ -10,7 +10,7 @@
 - E-Mail: [yakubofficialmail@gmail.com]()
 
 ## Projects:
-### Single-Header libraries:
+### Header-Only libraries:
 - [itsYakub/Silk](https://github.com/itsYakub/Silk)
 - [itsYakub/gload.h](https://github.com/itsYakub/gload.h)
 - [itsYakub/math.h](https://github.com/itsYakub/math.h)
