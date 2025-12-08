@@ -14,6 +14,7 @@
 - [itsYakub/Silk](https://github.com/itsYakub/Silk)
 - [itsYakub/gload.h](https://github.com/itsYakub/gload.h)
 - [itsYakub/math.h](https://github.com/itsYakub/math.h)
+- [itsYakub/image.h](https://github.com/itsYakub/image.h)
 
 ### 42warsaw:
 #### Common Core:
