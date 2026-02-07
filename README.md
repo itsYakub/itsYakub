@@ -34,6 +34,7 @@
 #### Advanced Core:
 - [itsYakub/42-libasm](https://github.com/itsYakub/42-libasm)
 - [itsYakub/42-nm](https://github.com/itsYakub/42-nm)
+- [itsYakub/42-ft_ls](https://github.com/itsYakub/42-ft_ls)
 
 ### Dotfiles:
 - [itsYakub/dotfiles](https://github.com/itsYakub/dotfiles)
