@@ -13,8 +13,8 @@
 ### Header-Only libraries:
 - [itsYakub/Silk](https://github.com/itsYakub/Silk)
 - [itsYakub/glld.h](https://github.com/itsYakub/glld.h)
-- [itsYakub/math.h](https://github.com/itsYakub/math.h)
-- [itsYakub/image.h](https://github.com/itsYakub/image.h)
+- [itsYakub/algebra.h](https://github.com/itsYakub/algebra.h)
+- [itsYakub/da.h](https://github.com/itsYakub/da.h)
 
 ### 42warsaw:
 #### Common Core:
