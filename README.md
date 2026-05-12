@@ -15,6 +15,7 @@
 - [itsYakub/glld.h](https://github.com/itsYakub/glld.h)
 - [itsYakub/algebra.h](https://github.com/itsYakub/algebra.h)
 - [itsYakub/da.h](https://github.com/itsYakub/da.h)
+- [itsYakub/noise.h](https://github.com/itsYakub/noise.h)
 
 ### 42warsaw:
 #### Common Core:
