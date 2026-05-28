@@ -14,6 +14,7 @@
 - [itsYakub/Silk](https://github.com/itsYakub/Silk)
 - [itsYakub/glld.h](https://github.com/itsYakub/glld.h)
 - [itsYakub/algebra.h](https://github.com/itsYakub/algebra.h)
+- [itsYakub/window.h](https://github.com/itsYakub/window.h)
 - [itsYakub/da.h](https://github.com/itsYakub/da.h)
 - [itsYakub/noise.h](https://github.com/itsYakub/noise.h)
 
